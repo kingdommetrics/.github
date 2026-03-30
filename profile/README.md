@@ -34,5 +34,5 @@ Python · FastAPI · React · TypeScript · Docker · Computer Vision (Roboflow)
 ---
 
 <p align="center">
-  <sub>North Palm Beach, FL · <a href="mailto:kingdommetrics@kingdommetrics.com">kingdommetrics@kingdommetrics.com</a> · (561) 770-8282</sub>
+  <sub>North Palm Beach, FL · <a href="mailto:hello@kingdommetrics.com">hello@kingdommetrics.com</a> · (561) 770-8282</sub>
 </p>
